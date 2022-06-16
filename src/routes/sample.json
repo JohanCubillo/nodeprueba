@@ -1,0 +1,14 @@
+[
+    {
+        "id" :"1",
+        "Nombre" : "Cardano",
+        "Simbologia" : "ADA"
+
+    },
+    {
+        "id" :"2",
+        "Nombre" : "Ethereum",
+        "Simbologia" : "ETH"
+
+    }
+]
